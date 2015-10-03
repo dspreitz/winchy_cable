@@ -1,2 +1,4 @@
 # winchy_cable
-Cable segment of the winchy project
+This repository contains all code for the Winchy project cable segment.
+For a project description please visit http://winchy.wikidot.com/
+
